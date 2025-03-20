@@ -19,12 +19,11 @@ The chatbot uses an FAQ dataset stored in **HDFC_Faq.csv**, which contains the f
 | **answer**         | The corresponding response to the question |
 | **found_duplicate** | Indicates if the question is a duplicate (1 = Yes, 0 = No) |
 
-- **Dataset Path:** `F:\AIVAR FINAL\Datasets\HDFC_Faq.csv`  
 - **Purpose:** To provide accurate responses to HDFC-related queries  
 
 ## 🛠 Installation  
 
 1️⃣ **Clone the repository**  
 ```bash
-git clone https://github.com/yourusername/hdfc-assist.git
+git clone https://github.com/sanjeev1508/HDFC-Assist---AI-Chatbot-for-Banking-FAQs.git
 cd hdfc-assist
